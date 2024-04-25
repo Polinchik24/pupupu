@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">kyrsovay</string>
+    <string name="button_text">Начать</string>
+    <string name="python">PYTHON</string>
+    <string name="textglavstr">PYTHON</string>
+    <string name="textbuttonglavstr">Начать</string>
+    <string name="buttonglavstr">Начать</string>
+    <string name="textpythonglavstr">Python — это высокоуровневый язык программирования, отличающийся эффективностью, простотой и универсальностью использования. Он широко применяется в разработке веб-приложений и прикладного программного обеспечения, а также в машинном обучении и обработке больших данных. За счет простого и интуитивно понятного синтаксиса является одним из распространенных языков для обучения программированию.</string>
+    <string name="texttemanachstr">ТЕМЫ:</string>
+    <string name="yslovia">Условия</string>
+    <string name="spiski">Списки</string>
+    <string name="cikl">Циклы</string>
+    <string name="peremennya">Переменные</string>
+    <string name="vtest1">да</string>
+    <string name="carname">Создайте переменную с именем carname и присвоите ей значение Вольво.</string>
+    <string name="edittext_v1">Ответ:</string>
+    <string name="dialog_start_game" />
+    <string name="start" />
+    <string name="cancel" />
+</resources>
